@@ -19,4 +19,8 @@ W tym projekcie wykonałem detekcję dłoni przy użyciu biblioteki **MediaPipe*
    - Wykrywanie gestu zaciśniętego kciuka i palca wskazującego.
    - Rysowanie ścieżki punktów na wideo w czasie rzeczywistym.
 
-## Przykład działania
+## Demo działania projektu
+
+Poniżej prezentacja działania detekcji dłoni z filtrem Kalmana:
+
+![Kalman MediaPipe Demo](hand_paint_video.gif)
